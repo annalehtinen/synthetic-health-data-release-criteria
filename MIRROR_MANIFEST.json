@@ -1,0 +1,35 @@
+{
+ "schema": "github_mirror_manifest",
+ "version": 2,
+ "repository": "annalehtinen/synthetic-health-data-release-criteria",
+ "release_version": "1.0.0",
+ "title": "Data for: Synthetic versions of open health datasets: Success criteria and license checks for releases with a real user",
+ "dataset_doi": "10.5281/zenodo.23144456",
+ "paper_preprint_doi": null,
+ "licence_id": "cc-by-4.0",
+ "committed_files": [
+  {
+   "path": "synthetic_kills.csv",
+   "bytes": 3763,
+   "sha256": "30e18798ac0da3d6b5b38cf5e2091c11652c45c9144b9528da066388506d8ef5"
+  },
+  {
+   "path": "synthetic_kills_counts.json",
+   "bytes": 785,
+   "sha256": "f8790c35517ee69227da5e66bf999eac31a8a7bb5c3ca015b299a669c39bfb86"
+  }
+ ],
+ "release_assets": [],
+ "left_out": [
+  {
+   "path": "make_synthetic_kills.log",
+   "bytes": 1031,
+   "reason": "code or build log; in the Zenodo record only"
+  },
+  {
+   "path": "make_synthetic_kills.py",
+   "bytes": 4755,
+   "reason": "code or build log; in the Zenodo record only"
+  }
+ ]
+}

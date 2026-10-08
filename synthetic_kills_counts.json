@@ -1,0 +1,41 @@
+{
+ "generated_utc": "2026-10-04T19:21:28.315923+00:00",
+ "pp_facts_generated_utc": "2026-09-28T15:49:22Z",
+ "killed_after_screen": 8,
+ "by_kill_code": {
+  "NO_USER_VALUE": 3,
+  "MERGED": 1,
+  "LICENCE": 2,
+  "PRIOR_ART": 2
+ },
+ "by_killed_at": {
+  "BV-012": 6,
+  "companion screen": 1,
+  "BV-013": 1
+ },
+ "by_success_criterion_class": {
+  "close_to_real": 4,
+  "merged_into_live_object": 1,
+  "no_utility_against_real_training": 1,
+  "rank_agreement": 1,
+  "parity_with_baseline": 1
+ },
+ "live_claims_pending": [],
+ "candidates_total": 86,
+ "verdicts_total": {
+  "ADVANCE": 8,
+  "KILL": 71,
+  "HOLD": 7
+ },
+ "bv012_ledger": {
+  "findings": 20,
+  "dispositions": {
+   "REPAIRED": 17,
+   "ACCEPTED_NOT_REPAIRED": 3
+  },
+  "verification": {
+   "REPRODUCED": 13,
+   "SEAT_ONLY": 7
+  }
+ }
+}

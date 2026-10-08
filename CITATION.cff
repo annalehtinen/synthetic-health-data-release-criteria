@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite them as below."
+type: dataset
+title: "Data for: Synthetic versions of open health datasets: Success criteria and license checks for releases with a real user"
+authors:
+  - family-names: "Lehtinen"
+    given-names: "Anna"
+    affiliation: "Independent Researcher, Finland"
+doi: "10.5281/zenodo.23144456"
+license: "CC-BY-4.0"
+url: "https://github.com/annalehtinen/synthetic-health-data-release-criteria"
+keywords:
+  - "synthetic data"
+  - "health data"
+  - "data licensing"
+  - "data use agreement"
+  - "membership inference"
+  - "train-synthetic-test-real"
+  - "dataset release"
+  - "negative result"
+  - "PhysioNet"
+  - "energy data"
